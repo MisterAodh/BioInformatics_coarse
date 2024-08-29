@@ -1,0 +1,9 @@
+This is actually the first project where I am using the command line to push to my GIT
+This is one of the few real issues of being nearly entirely self taught is I previously didnt bother to learn to do this and waster a lot of time
+I am leaving these commands here in case I forget.
+
+git add .
+git commit -m "Describe the changes you've made"
+git push
+
+
