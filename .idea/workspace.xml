@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af782f14-c1ac-4bf3-b565-628830b50892" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/AWS_KEY_PAIRS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AWS_KEY_PAIRS/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/Alpaca_trading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/Buy_and_Limit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/Make_a_plot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/alpaca_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/check_account_sell.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alpaca_trading/sample_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/Django_Poker_version.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Poker_version/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/3dMPL_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/data/Frequency.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/3dMPL_test/workshop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.\propegation_images\2023_06_16 23_46_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/Chloropleth_maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/C:\Users\Phelan_L\Documents\Leo\OLDSTUFF\pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/Cleaning_events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/Map_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/dealing with the data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geo_jsons/new_grid_100.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geo_jsons/new_grid_200.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geo_jsons/new_grid_400.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geo_jsons/new_prop_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/geo_jsons/transmission_events/2023_06_16 23_46_47.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/making_grid_geo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/propegation_images/new_prop_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/propegation_images/new_prop_img200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/stuff i tried.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps 2/temp_plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.\propegation_images\2023_06_16 23_46_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/Chloropleth_maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/C:\Users\Phelan_L\Documents\Leo\OLDSTUFF\pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/Cleaning_events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/Map_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/dealing with the data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/new_grid_100.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/new_grid_200.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/new_grid_400.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/new_prop_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/new_prop_img200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/transmission_events/2023_06_16 23_46_47.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/geo_jsons/transmission_events/new_prop_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/making_grid_geo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/propegation_images/new_prop_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Chloropleth_maps/stuff i tried.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/Fault_analysis_webpage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/Frequency_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/Inverse distance weighting interpolation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/__READ__ME__HELP__INSTRUCTIONS__.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/download_report/Frequency_&amp;_Fault_Report_2023-07-31.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/download_report/report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/make_report/Template.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/make_report/report_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/make_report/station_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/make_report/template_for_fault_table.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/pics_for_website/Download-Report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/pics_for_website/Fault-Analysis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/pics_for_website/Green_background_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/pics_for_website/Wind-Production.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/assets/wind_data/17-07-2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/clean_this_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/fix_week_wind_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/generate_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/leo/scripts/config/read_config_py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/pages/pg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/pages/pg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/pages/pg3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/pages/pg4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/pull_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/put_new_data_here/Dates_Times_locations_for_week_fault/2022_12_26_11_43.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/put_new_data_here/Dates_Times_locations_for_week_fault/Tawnaghmore.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/put_new_data_here/Dates_Times_locations_for_week_fault/new_2022_12_26_11_43.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/put_new_data_here/Frequency_data_for_week/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/put_new_data_here/Wind_data_metric_data_got_from_his/17-07-2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/SNSP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/barplot - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/comparisons_bar - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/Chloropleth.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/Negatitve Seq Ang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/Positive Seq Mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/VR|Mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/VS|Mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/VT|Mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/Zero Seq Mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/fault_0/info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/frequency_data/bar.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/frequency_data/table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/inertia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/mdplothigh - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/mdplotlow - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/Fault_analysis_webpage/this_weeks_report/table - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/maps_reports.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/Cleaning_events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/Map_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/dealing with the data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/geo_jsons_I_created/new_grid_100.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/geo_jsons_I_created/new_grid_200.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/geo_jsons_I_created/new_grid_400.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/Code I wrote maps/making_grid_geo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/maps_reports/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/.idea/move_mouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/move_mouse/photo_locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/.idea/multipage_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/APP.A.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/example.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/pages/pg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/pages/pg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.A/table.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.B/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.B/assets/logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.B/pages/pg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.B/pages/pg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.B/pages/pg3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/assets/pg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/assets/pg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/assets/smoking2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/pages/pg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/pages/pg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/APP.C/pages/pg3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/git files/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/git files/pages/pg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/git files/pages/pg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/git files/pages/pg3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/multipage_application/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/complex_automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/Outlook_auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/Selinium_auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eirgrid_stuff/outlook_automation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/flaskweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/backend/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/backend/instance/mydatabase.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/backend/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/backend/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/contact_form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/contact_list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_contact_list/frontend/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Full_EEG_PROJECT/Initial_datasets/vep_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Full_EEG_PROJECT/Initial_datasets/vep_stim_times.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Full_EEG_PROJECT/VEP_signal_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Full_EEG_PROJECT/model_examination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Full_EEG_PROJECT/output_datasets/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/.idea/GPT_WRAPAROUND_MATHS_TUTOR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/GPT_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/website/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPT_WRAPAROUND_MATHS_TUTOR/youtube_vids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/.idea/Gans_to_make_new_datasets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/datasets/Parra_Lab_EEG_datasets.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/datasets/vep.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/datasets/vep_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/datasets/vep_stim_times.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/examining_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/false_pos_neg_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/old_models+results/model_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/old_python_stuff/VEP_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/old_python_stuff/clothes_img_gan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/old_python_stuff/vep_data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/plans_and_read_mes/plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gans_to_make_new_datasets/pytorch_VEP_identification_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/JPEG_PDF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 1 .jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 5a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/page 5b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/jpegs/picture_leo_phelan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/output.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPEG_PDF/output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/Linear_Programming_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear_Programming_Calculator/simplex_solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/Max_Magic_Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Card_Market_Scrape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Ancient Grudge [ISD].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Battlefield Forge [9ED].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Cathartic Reunion [KLD] (F).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/City of Brass [MMA].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Conflagrate [TSP].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Creeping Chill [GRN].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Darkblast [RAV].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Duress [XLN] (F).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Gemstone Mine [WL].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Golgari Thug [RAV].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Leyline of Sanctity [WOT].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Merchant of the Vale [ELD].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Mountain _253_ [THB].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Narcomoeba [GRN].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Otherworldly Gaze [MID].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Ox of Agonas [THB].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Portable Hole [AFR].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Prized Amalgam [SOI].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Shivan Reef [M15].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Silversmote Ghoul [M21].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Stern Dismissal [THB].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Stinkweed Imp [MMA] (F).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Sulfurous Springs [9ED].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Swamp _252_ [THB].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Thrilling Discovery [STX].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Tormod's Crypt [M13].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Underground River [10E].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/Time_series_data/cards_for_2023-09-25T15:07:47Z_video/Wear __ Tear [DGM].csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/cookies.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/data_deal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Ancient Grudge [ISD].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Battlefield Forge [9ED].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Cathartic Reunion [KLD] (F).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_City of Brass [MMA].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Conflagrate [TSP].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Creeping Chill [GRN].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Darkblast [RAV].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Duress [XLN] (F).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Gemstone Mine [WL].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Golgari Thug [RAV].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Leyline of Sanctity [WOT].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Merchant of the Vale [ELD].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Mountain _253_ [THB].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Narcomoeba [GRN].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Otherworldly Gaze [MID].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Ox of Agonas [THB].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Portable Hole [AFR].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Prized Amalgam [SOI].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Shivan Reef [M15].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Silversmote Ghoul [M21].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Stern Dismissal [THB].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Stinkweed Imp [MMA] (F).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Sulfurous Springs [9ED].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Swamp _252_ [THB].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Thrilling Discovery [STX].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Tormod's Crypt [M13].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Underground River [10E].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/plot_Wear __ Tear [DGM].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/tab_online_snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Card_Market_Api/time_series_plots.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/Youtube_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/Get_historical_decks_links_from_youtube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/budget_magic_video_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/chat_gbt_text_decripter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/Youtube_api/useful_channel_IDs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_Magic_Money/stuff.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/Mental_Metal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/Questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mental_Metal/sample questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/Neural_Network.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/fashion_mnist_data/test_images.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/fashion_mnist_data/test_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/fashion_mnist_data/train_images.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/fashion_mnist_data/train_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/findings/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/handwritten.model/fingerprint.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/handwritten.model/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/handwritten.model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/handwritten.model/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/handwritten.model/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/make_number_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural_Network/number_recognition/number_neuro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/New_Audio_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Audio_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/Nueral_Network_visualiser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/car.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nueral_Network_visualiser/student-mat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_scraper/.idea/Online_scraper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_scraper/data_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_scraper/directory_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_scraper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/P_AND_S_module.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/assaignment_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Buttery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Buttery_fits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Dining_Hall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Dining_Hall_fits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Pavilion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/Pavilion_fits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/fit_parameters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/fit_parameters_and_goodness_of_fit.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_2/findings/goodness_of_fit_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/assaignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/combined_gate_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/consolidated_dining_facilities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/docs/Group Assignment 2 Prob and stats.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/findings/output_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/Group_assaignment_3/findings/output_results.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/Functional_sound_data_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/Sound Level Averages-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/Sound_data_using_template.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery/buttery_aft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery/buttery_morn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery/buttery_noon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery_hist/buttery_aft_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery_hist/buttery_morn_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/buttery_hist/buttery_noon_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/central_tendencies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/data_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining/dining_hall_aft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining/dining_hall_morn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining/dining_hall_noon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining_hist/dining_hall_aft_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining_hist/dining_hall_morn_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/dining_hist/dining_hall_noon_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan/pavilion_aft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan/pavilion_morn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan/pavilion_noon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan_hist/pavilion_aft_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan_hist/pavilion_morn_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/group_assaignment/pan_hist/pavilion_noon_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P_AND_S_module/vectors and stuff/plot_the_vects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/Planet_simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Planet_simulation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/flaskweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/GG_rush_PokerHandProcessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/Input_data/20240506-20240506_MisterAy77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/Input_data/CleanInitialTextData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/Input_data/Hero_hand_history_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Poker_data_webpage/Input_data/new_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/QP_assaignment.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/EEG_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/P300.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/findings/average_erp_responses_p300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/findings/average_vep_response.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/findings/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QP_assaignment.py/vep.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/Voice_command_poker_terminal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/front_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/get_charts_code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/get_charts_code/what_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/record_hands_datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice_command_poker_terminal/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/Week_10_Homework.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/Questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/exploit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/homework8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/homework9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/leo_phelan_21363905_MATLAB_ASSAIGNMENT2.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/python_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/solids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week_10_Homework.py/week_8_math.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/club_web_scraper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../club_web_scraper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/driving test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/bla.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../driving test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/20240506-20240506_MisterAy77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/notes to do.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/old_code/Base_data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/old_code/advanced_data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/LadbrooksPokerHandProcessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/admin_post_review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning/Arithmatic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning/Bio_tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning/Poker_Ranges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning/Quant_Math.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning/easy_arithmatic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/learning_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/posts_div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/streets/flop_metrics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/streets/preflop_metrics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/streets/river_metrics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/streets/turn_metrics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/view_analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/view_dataframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/templates/view_metrics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskweb/website/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open_ai_test_bed/.idea/open_ai_test_bed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open_ai_test_bed/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open_ai_test_bed/quiz_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open_ai_test_bed/youtube_vids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/.idea/photo_edit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo_edit/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poker_tkinter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MisterAodh/Artificial_EEG_Creation_Models.git",
+    "accountId": "4c53a231-f6f6-47d4-a426-4c760400c669"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2lKa4phZc9IqUtgSUknyK4qjtdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Bioinformatics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af782f14-c1ac-4bf3-b565-628830b50892" name="Changes" comment="" />
+      <created>1724931034949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724931034949</updated>
+      <workItem from="1724931040628" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
