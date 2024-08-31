@@ -1,16 +1,15 @@
-# This is a sample Python script.
+from Basic_analysis.DNAToolkit import *
+from Basic_analysis.utilities import *
+import random
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+randDNAStr = ''.join([random.choice(Nucleotides) for n in range(50)])
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+DNAStr = validateSeq(randDNAStr)
+print(f'\nSequence: {colored(DNAStr)}\n')
+print(f'[1] + Sequence Length: {len(DNAStr)}\n')
+print(f'[2] + Nucleotide Frequency: {countNucFrequency(DNAStr)}\n')
+print(f'[3] + DNA/RNA transcription: {colored(transcription(DNAStr))}\n')
+print(f"[4] + DNA String + Reverse Complement:\n5' {colored(DNAStr)} 3'")
+print(f"   {''.join(['|' for c in range(len(DNAStr))])}")
+print(f"3' {colored(reverse_complement(DNAStr))} 5'\n")

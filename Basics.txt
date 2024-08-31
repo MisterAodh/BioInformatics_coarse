@@ -6,4 +6,8 @@ git add .
 git commit -m "Describe the changes you've made"
 git push
 
+The course will teach how to represent DNA and then build tools to analyse data, then
+create algorithms to analyse data,
+
+The projects will be rosalind challenges
 
