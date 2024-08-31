@@ -1,15 +1,9 @@
-from Basic_analysis.DNAToolkit import *
-from Basic_analysis.utilities import *
-import random
+from Basic_analysis.bio_seq import bio_seq
 
-randDNAStr = ''.join([random.choice(Nucleotides) for n in range(50)])
+test_dna = bio_seq()
+test_dna.generate_rnd_seq(40, "DNA")
 
-
-DNAStr = validateSeq(randDNAStr)
-print(f'\nSequence: {colored(DNAStr)}\n')
-print(f'[1] + Sequence Length: {len(DNAStr)}\n')
-print(f'[2] + Nucleotide Frequency: {countNucFrequency(DNAStr)}\n')
-print(f'[3] + DNA/RNA transcription: {colored(transcription(DNAStr))}\n')
-print(f"[4] + DNA String + Reverse Complement:\n5' {colored(DNAStr)} 3'")
-print(f"   {''.join(['|' for c in range(len(DNAStr))])}")
-print(f"3' {colored(reverse_complement(DNAStr))} 5'\n")
+print(test_dna.get_seq_info())
+print(test_dna.nucleotide_frequency())
+print(test_dna.transcription())
+print(test_dna.seq)

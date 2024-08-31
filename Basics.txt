@@ -1,3 +1,20 @@
+DNA codon are the nucliotide basses that encode for different amino acids
+DNA and RNA have different charts as RNa is the translated verion of dna
+mRNA AUG codon leads to tRNA codon UAC we look at the mRNA codon
+use mRNA codon ahhhhhh
+ribosoms: assemble polymeric protein molecules whose sequence is controlled by the sequence of messenger RNA molecules
+a ribosome concists of two units a small small sub unit which reads RNA and a large sun unit which joins amino acids  to form a polypeptide chain.
+
+
+
+
+
+
+
+
+
+
+
 This is actually the first project where I am using the command line to push to my GIT
 This is one of the few real issues of being nearly entirely self taught is I previously didnt bother to learn to do this and waster a lot of time
 I am leaving these commands here in case I forget.
