@@ -1,5 +1,5 @@
 from collections import Counter
-from Basic_analysis.structures import *
+from DNA_Toolkit.structures import *
 
 def validateSeq(dna_seq):
     tempseq = dna_seq.upper()

@@ -1,5 +1,5 @@
-from Basic_analysis.DNAToolkit import *
-from Basic_analysis.utilities import *
+from DNA_Toolkit.DNAToolkit import *
+from DNA_Toolkit.utilities import *
 import random
 
 randDNAStr = ''.join([random.choice(Nucleotides) for n in range(60)])

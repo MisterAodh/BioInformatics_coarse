@@ -1,4 +1,4 @@
-from Basic_analysis.bio_structs import *
+from DNA_Toolkit.bio_structs import *
 from collections import Counter
 import random
 

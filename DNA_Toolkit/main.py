@@ -1,4 +1,4 @@
-from Basic_analysis.bio_seq import bio_seq
+from DNA_Toolkit.bio_seq import bio_seq
 
 test_dna = bio_seq()
 test_dna.generate_rnd_seq(40, "DNA")
